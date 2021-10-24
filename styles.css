@@ -1,0 +1,24 @@
+.clock {
+    
+    background-color: rgb(2, 2, 2);
+    text-align: center;
+    color: rgb(38, 255, 0);
+    font-family: 'Orbitron', sans-serif;
+   
+    
+
+}
+
+
+background {
+
+    background-size: cover;
+    background-size:1000px;
+    background-color: rgb(2, 2, 2);
+  }
+  
+
+
+#time {
+    font-size: 25vh;
+}
